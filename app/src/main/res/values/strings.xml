@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="poster_path">Movie Cover</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="connect_error">Could not connect to server</string>
+    <string name="api_language">language=en-US</string>
+</resources>

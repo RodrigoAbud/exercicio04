@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmes populares</string>
+    <string name="action_settings">Configurações</string>
+    <string name="poster_path">Capa do filme</string>
+    <string name="invalid_url">URL inválida</string>
+    <string name="connect_error">Erro ao conectar no servidor</string>
+    <string name="api_language">language=pt-BR</string>
+</resources>
